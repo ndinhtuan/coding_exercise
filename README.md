@@ -102,6 +102,7 @@ Programming Puzzles
 - [ ] Check if a string is a rotation of another
 
 ### Mathematical
+- [x] An array with pair, except one element, find that element (lc_single_number.py)- 1
 - [ ] Reverse integers (lc_reverse_int.py) - 1
 - [ ] Sieve of Eratosthenes (sieve_prime.py) - 1
 - [ ] Two sum in O(n) time (lc_two_sum.py) - 1
