@@ -10,7 +10,7 @@ Each item is marked with a difficulty level.
 
 If a file name starts with 'lc', it's a problem from leetcode.com
 
-Written in python3. Thanks Danijar Hafner (@danijar) for the inspiration.
+Written in python2
 
 Data structures
 ---------------
