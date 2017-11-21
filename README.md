@@ -90,6 +90,7 @@ Programming Puzzles
 -------------------
 
 ### String Manipulation
+- [x] Reverse a string - 1
 - [ ] Check if two strings are anagrams in O(n + m) time (anagrams.py) - 1
 - [ ] Find the longest palindromic substring in O(n^2) time (lc_longest_palindrome.py) - 2
 - [ ] Check if a string has balanced delimiters in O(n) time (delim_balanced.py) - 2
